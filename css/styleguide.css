@@ -1,0 +1,121 @@
+:root {
+  --bondi-blue: #0892aa;
+  --brandy-punch: #db8d2e;
+  --chateau-green: #3a9c59;
+  --cyber-grape: #513f74;
+  --fern: #55ba6c;
+  --ghost: #cac4d1;
+  --java: #0bbac6;
+  --mid-gray: #605c66;
+  --rose: #ff5555;
+  --white: #ffffff;
+  --yellow-orange: #ffb140;
+
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 28px;
+  --font-size-xxxl: 40px;
+  --font-size-xxxxl: 48px;
+
+  --font-family-modernera-bold: "ModernEra-Bold", Helvetica;
+  --font-family-modernera-regular: "ModernEra-Regular", Helvetica;
+}
+.h1centerboldcoral-500 {
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+.h3centerboldcharcoal-500 {
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+.s1leftboldcharcoal-500 {
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+.p1centerregularcharcoal-500 {
+  font-family: var(--font-family-modernera-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.modernera-bold-mid-gray-28px {
+  color: var(--mid-gray);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-mid-gray-40px {
+  color: var(--mid-gray);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-mid-gray-10px {
+  color: var(--mid-gray);
+  font-family: var(--font-family-modernera-bold);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-bondi-blue-28px {
+  color: var(--bondi-blue);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-brandy-punch-28px {
+  color: var(--brandy-punch);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-rose-28px {
+  color: var(--rose);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-chateau-green-28px {
+  color: var(--chateau-green);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.modernera-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-modernera-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+.border-2px-ghost {
+  border: 2px solid var(--ghost);
+}
+.border-2px-rose {
+  border: 2px solid var(--rose);
+}
