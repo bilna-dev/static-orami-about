@@ -414,22 +414,6 @@
   display: block;
 }
 
-/* journey background shape */
-.tablet768 .element-star48-copy-4-wo7NFH,
-.tablet768 .element-star48-copy-4-MZ3Ate,
-.tablet768 .element-star48-copy-4-lT6pCn,
-.tablet768 .element-star48-copy-4-GVeenX,
-.mobile360 .element-star48-copy-4-wxgt9G,
-.mobile360 .element-star48-copy-4-IJ6rl6,
-.mobile360 .element-star48-copy-4-1zup1f,
-.mobile360 .element-star48-copy-4-SMRQSN,
-.desktop1440 .element-star48-copy-4-GVeenX,
-.desktop1440 .element-star48-copy-4-lT6pCn,
-.desktop1440 .element-star48-copy-4-wo7NFH,
-.desktop1440 .element-star48-copy-4-MZ3Ate {
-  display: none;
-}
-
 @media screen and (max-width: 767px) {
   .offcanvas-full-screen-inner {
     width: 360px;
