@@ -430,6 +430,10 @@
   display: none;
 }
 
+.swiper-container.swiper-desktop {
+  margin-left: 3px;
+}
+
 @media screen and (max-width: 767px) {
   .offcanvas-full-screen-inner {
     width: 360px;
