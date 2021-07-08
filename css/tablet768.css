@@ -1254,27 +1254,26 @@ transform: translate(0, 25px);
 }
 .desktop1440 .bitmap-DxU3qO {
   background-color: transparent;
-  height: 45px;
+  height: auto;
   left: 0px;
   position: absolute;
-  top: 0px;
-  width: 45px;
+  top: -5px;
+  width: 60px;
 }
 .desktop1440 .bitmap-L57NTC {
   background-color: transparent;
-  height: 45px;
-  left: 2px;
+  height: auto;
   position: absolute;
-  top: 0px;
-  width: 41px;
+  top: -5px;
+  width: 60px;
 }
 .desktop1440 .bitmap-PPy3yL {
   background-color: transparent;
-  height: 39px;
+  height: auto;
   left: 0px;
   position: absolute;
-  top: 4px;
-  width: 45px;
+  top: -10px;
+  width: 65px;
 }
 .desktop1440 .bitmap-SCTXxt {
   background-color: transparent;
@@ -2379,6 +2378,16 @@ opacity: 0;
   width: 401px;
 opacity: 0;
 }
+.desktop1440 .sirclo-img {
+  height: 64px;
+  width: auto;
+  margin: 5px 5px 0 5px
+}
+.desktop1440 .sirclo-section {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
 .desktop1440 .gif-lT6pCn {
   background-color: transparent;
   display: block;
@@ -3384,6 +3393,46 @@ opacity: 0;
   top: 0px;
   width: 48px;
 }
+.desktop1440 .our-services-8gd6PO .oval-9Lt78H {
+  background-color: var(--rose);
+  border-radius: 48px;
+  box-shadow: 0px 2px 4px #00000029;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+.our-services-8gd6PO .line-copy-9Lt78H {
+  background-color: transparent;
+  height: 20.83%;
+  opacity: 1;
+  position: absolute;
+  right: 31.25%;
+  top: 39.58%;
+  transform: rotate(-90deg);
+  width: 33.33%;
+}
+.desktop1440 .our-services-8gd6PO .oval-YIfDnB {
+  background-color: var(--rose);
+  border-radius: 48px;
+  box-shadow: 0px 2px 4px #00000029;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+.our-services-8gd6PO .line-copy-YIfDnB {
+  background-color: transparent;
+  height: 20.83%;
+  opacity: 1;
+  position: absolute;
+  right: 31.25%;
+  top: 39.58%;
+  transform: rotate(-90deg);
+  width: 33.33%;
+}
 .desktop1440 .oval-K6JiWM {
   background-color: transparent;
   border-radius: 42px;
@@ -4288,7 +4337,6 @@ transform: translate(0, 25px);
   position: absolute;
   text-align: right;
   top: 157px;
-  white-space: nowrap;
   width: 290px;
 opacity: 0;
 transform: translate(0, 25px);
@@ -6595,7 +6643,7 @@ to{opacity: 1;}
   height: 2228px;
   left: 0px;
   position: absolute;
-  top: 2022px;
+  top: 2072px;
   width: 360px;
 }
 .mobile360 .group-11-19jzR0 {
@@ -8164,7 +8212,6 @@ to{opacity: 1;}
   position: absolute;
   text-align: center;
   top: 40px;
-  white-space: nowrap;
   width: 328px;
 }
 .mobile360 .x2013-2014-3KI1N0 {

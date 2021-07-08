@@ -250,7 +250,7 @@
   text-align: center;
   height: 290px;
   max-width: 290px;
-  margin: 40px auto 30px;
+  margin: 40px auto -5px;
 }
 
 .swiper-container.swiper-mobile .swiper-title,
@@ -466,6 +466,10 @@
   .swiper-container.swiper-mobile .swiper-title,
   .swiper-container.swiper-mobile .swiper-description {
     padding: 0 8px;
+  }
+
+  .swiper-description {
+    margin-top: 10px;
   }
 
   .mobile360 .content-section-slider {
