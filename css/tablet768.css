@@ -1158,7 +1158,7 @@
 }
 .desktop1440 {
   background-color: var(--white);
-  height: 5859px;
+  height: 5520px;
   overflow-x: hidden;
   position: relative;
   width: 1440px;
@@ -2378,12 +2378,12 @@ opacity: 0;
   width: 401px;
 opacity: 0;
 }
-.desktop1440 .sirclo-img {
+.desktop1440 .sirclo-img, .tablet768 .sirclo-img, .mobile360 .sirclo-img {
   height: 64px;
   width: auto;
   margin: 5px 5px 0 5px
 }
-.desktop1440 .sirclo-section {
+.desktop1440 .sirclo-section, .tablet768 .sirclo-section, .mobile360 .sirclo-section {
   display: flex;
   align-items: center;
   justify-content: left;
@@ -6010,7 +6010,7 @@ to{opacity: 1;}
 
 .mobile360 {
   background-color: var(--white);
-  height: 5600px;
+  height: 5120px;
   overflow-x: hidden;
   position: relative;
   width: 360px;
@@ -6667,7 +6667,7 @@ to{opacity: 1;}
   height: 192px;
   left: 0px;
   position: absolute;
-  top: 4250px;
+  top: 4280px;
   width: 360px;
 }
 .mobile360 .group-11-YhcIqB {
@@ -7179,7 +7179,7 @@ to{opacity: 1;}
   height: 32px;
   left: 16px;
   position: absolute;
-  top: 32px;
+  top: 60px;
   width: 328px;
 }
 .mobile360 .group-9-vorEX1 {
@@ -10506,7 +10506,6 @@ to{opacity: 1;}
   position: absolute;
   text-align: center;
   top: 370px;
-  white-space: nowrap;
   width: 451px;
 }
 .tablet768 .x2013-2014-GVeenX {
